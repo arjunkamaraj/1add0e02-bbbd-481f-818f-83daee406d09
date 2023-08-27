@@ -26,6 +26,7 @@ OR
 <h3> Instructions </h3>
 
 - Enter a sequence of integers separated by spaces (Max Characters -: 65534)
+- To increase the input characters limit further you will have to change the "inputBuffer" array size in Program.cs(line 8)
 
 <h4> Example </h4>
 
